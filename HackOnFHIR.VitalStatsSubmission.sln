@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackOnFHIR.VitalStatsSubmission.Web", "HackOnFHIR.VitalStatsSubmission.Web\HackOnFHIR.VitalStatsSubmission.Web.csproj", "{91B8FF91-14ED-4C1D-BA24-A5547BDCF029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackOnFHIR.VitalStatsSubmission.Services", "HackOnFHIR.VitalStatsSubmission.Services\HackOnFHIR.VitalStatsSubmission.Services.csproj", "{46B16BD1-9777-416C-9CAB-9712B6573241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B8FF91-14ED-4C1D-BA24-A5547BDCF029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B8FF91-14ED-4C1D-BA24-A5547BDCF029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B8FF91-14ED-4C1D-BA24-A5547BDCF029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B8FF91-14ED-4C1D-BA24-A5547BDCF029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B16BD1-9777-416C-9CAB-9712B6573241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B16BD1-9777-416C-9CAB-9712B6573241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B16BD1-9777-416C-9CAB-9712B6573241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B16BD1-9777-416C-9CAB-9712B6573241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {036D6716-8AB7-4481-82E8-6B0B9AEAE660}
+	EndGlobalSection
+EndGlobal
